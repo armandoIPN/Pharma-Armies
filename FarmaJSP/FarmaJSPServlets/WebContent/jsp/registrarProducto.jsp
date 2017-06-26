@@ -121,7 +121,7 @@
 							<div class="input-field col s3">
 								<i class="mdi-social-person-outline prefix"></i> <input
 									class="validate" id="numeroFactura" type="text"> <label
-									for="numeroDeFactura" data-error="wrong" data-success="right"
+									for="numeroFactura" data-error="wrong" data-success="right"
 									class="center-align">Número De Factura</label>
 							</div>
 						</div>
